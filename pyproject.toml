@@ -14,8 +14,8 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage =
-Issues =
+Homepage = "https://github.com/ElCabris/lexdataemail"
+Issues = "https://github.com/ElCabris/lexdataemail/issues"
 
 [build-system]
 requires = ["hatchling"]
