@@ -1,2 +1,5 @@
 # virtual enviroments
 /.venv/
+
+# build library
+/dist/
