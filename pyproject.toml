@@ -1,6 +1,6 @@
 [project]
-name
-version
+name = "lexdataemail"
+version = "0.0.1"
 authors = [
 	{name="Emanuel Cabrera Novoa", email="emanuelcabreranovoa@hotmail.com"}
 ]
