@@ -3,3 +3,6 @@
 
 # build library
 /dist/
+
+# environment variables
+.env
